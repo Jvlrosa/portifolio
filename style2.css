@@ -73,6 +73,11 @@ body {
 .img_ling {
     display: block;
     margin: 0 auto;
+    transition: 0.7s;
+}
+
+.img_ling:hover {
+    transform: scale(1.05);
 }
 
 .p4 {
